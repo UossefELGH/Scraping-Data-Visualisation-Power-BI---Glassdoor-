@@ -1,7 +1,7 @@
 # Scraping Data & Visualisation Power BI - Glassdoor Project
 
 ## 📝 Description
-Ce projet est divisé en deux parties principales :
+Ce projet est divisé en Trois parties principales :
 
 1. **Data Scraping** : Extraction de données des offres d'emploi sur Glassdoor à l'aide de Selenium et BeautifulSoup.
 2. **Data Cleaning & Preparing** : Nettoyage et structuration des données dans Excel pour l'analyse.

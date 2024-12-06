@@ -98,7 +98,7 @@ Voici les mesures personnalisées utilisées dans Power BI pour l'analyse :
 ## 📷 Capture d'écran du Tableau de Bord
 -- Voici un aperçu du tableau de bord Power BI créé à partir des données Glassdoor :
 
-![Glassdoor Dashboard]("C:\Users\DELL\Desktop\dashhbord_jobs_screen.png")
+![Glassdoor Dashboard](images/dashhbord_jobs_screen.png)
 
  
 
